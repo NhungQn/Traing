@@ -1,2 +1,0 @@
-# Traing
-practice with linux
